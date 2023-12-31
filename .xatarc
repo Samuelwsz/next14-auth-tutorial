@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Samuel-s-workspace-q0c1tr.us-east-1.xata.sh/db/next-auth-db-tutorial",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
