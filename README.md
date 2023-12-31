@@ -48,3 +48,11 @@ npm install @clerk/nextjs
 https://xata.io/docs
 
 https://xata.io/docs/getting-started/installation
+
+### zod
+
+https://zod.dev/?id=installation
+
+```
+npm install zod
+```
