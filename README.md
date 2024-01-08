@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### next-auth
 
-https://www.youtube.com/watch?v=uAbmWBe1LBY&ab_channel=JamesQQuick
+https://www.youtube.com/watch?v=dHCprszrMqo&ab_channel=JamesQQuick
 
 ### clerk
 
